@@ -38,7 +38,8 @@
 <h3 align="left">
   👥 CONNECT WITH ME:
 </h3>
-<p align="left">
+ <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/_theBeast_07" target="blank">
     <img src="https://img.shields.io/twitter/follow/tusharchemate?style=social" alt="Twitter Follow" />
   </a>
@@ -53,13 +54,12 @@
   </a>
 </p>
 
-<!-- Add more badges for other platforms, skills, or technologies -->
 <p align="left">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat&logo=git" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-Container-blue?style=flat&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=flat&logo=visual-studio-code" alt="VSCode" />
   <img src="https://img.shields.io/badge/Node.js-JavaScript-green?style=flat&logo=node.js" alt="Node.js" />
-  <!-- Add more badges as needed -->
 </p>
 
 
