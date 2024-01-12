@@ -9,11 +9,14 @@
 
 - 🔭 I’m currently working at **Qapita Fintech India Ltd**.
 
-- 🌱 I’m currently learning *Springboot, Aws and Docker*
+- <p>
+  🌱 I’m currently leveraging <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
+</p>
+
 
 - 💬 Ask me about *Full Stack Development,Javascript, Java, React, Spring Boot, Data Structures and Algorithms*
 
-- 📫 Reach out to me *tushachemate07@gmail.com*
+- 📫 Reach out to me *tusharchemate07@gmail.com*
 
 - ⚡ Fun fact *I love moments more than the memory*
 
