@@ -34,3 +34,34 @@
 [![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
+
+<h3 align="left">
+  👥 CONNECT WITH ME:
+</h3>
+<p align="left">
+  <a href="https://twitter.com/tusharchemate" target="blank">
+    <img src="https://img.shields.io/twitter/follow/tusharchemate?style=social" alt="Twitter Follow" />
+  </a>
+  <a href="https://linkedin.com/in/tusharchemate" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Connect" />
+  </a>
+  <a href="https://www.hackerrank.com/tusharchemate" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank" alt="HackerRank Profile" />
+  </a>
+  <a href="https://www.leetcode.com/tusharchemate" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode Profile" />
+  </a>
+</p>
+
+<!-- Add more badges for other platforms, skills, or technologies -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat&logo=git" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-Container-blue?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=flat&logo=visual-studio-code" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Node.js-JavaScript-green?style=flat&logo=node.js" alt="Node.js" />
+  <!-- Add more badges as needed -->
+</p>
+
+
+
+
