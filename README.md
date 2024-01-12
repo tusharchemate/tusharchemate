@@ -39,13 +39,13 @@
   👥 CONNECT WITH ME:
 </h3>
 <p align="left">
-  <a href="https://twitter.com/tusharchemate" target="blank">
+  <a href="https://twitter.com/_theBeast_07" target="blank">
     <img src="https://img.shields.io/twitter/follow/tusharchemate?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://linkedin.com/in/tusharchemate" target="blank">
+  <a href="https://linkedin.com/in/tushar-chemate-0790ab158/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Connect" />
   </a>
-  <a href="https://www.hackerrank.com/tusharchemate" target="blank">
+  <a href="https://www.hackerrank.com/tusharchemate07" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank" alt="HackerRank Profile" />
   </a>
   <a href="https://www.leetcode.com/tusharchemate" target="blank">
