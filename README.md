@@ -10,11 +10,11 @@
 - 🔭 I’m currently working at **Qapita Fintech India Ltd**.
 
 - <p>
-  🌱 I’m currently leveraging <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
+  🌱 I’m currently leveraging <strong> C# </strong> <strong> .Net Core</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
 </p>
 
 
-- 💬 Ask me about *Full Stack Development,Javascript, Java, React, Spring Boot, Data Structures and Algorithms*
+- 💬 Ask me about *Full Stack Development,Javascript, C#, React, .Net Core, Data Structures and Algorithms*
 
 - 📫 Reach out to me *tusharchemate07@gmail.com*
 
