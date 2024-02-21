@@ -1,13 +1,13 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hey 👋 I'M Tushar Chemate  </h1>
 <div>
-  <h3 align="center">A Full Stack Developer.</h3>
+  <h3 align="center">A Full Stack Developer.</h3> 
 </div>
 
 
 <h3 align="left">👨‍💻 ABOUT ME:</h3>
 
-- 🔭 I’m currently working at **Qapita Fintech India Ltd**.
+- 🔭 I’m currently working at **Qapita Fintech India Pvt Ltd**.
 
 - <p>
   🌱 I’m currently leveraging <strong> C# </strong> <strong> .Net Core</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
