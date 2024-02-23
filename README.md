@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Qapita Fintech India Pvt Ltd**.
 
 - <p>
-  🌱 I’m currently leveraging <strong> Java </strong> <strong> Spring Boot</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
+  🌱 I’m currently leveraging <strong> Java </strong>, <strong> Spring Boot</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
 </p>
 
 
@@ -25,8 +25,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 [![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 <br/>
