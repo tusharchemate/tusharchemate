@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Qapita Fintech India Pvt Ltd**.
 
 - <p>
-  🌱 I’m currently leveraging <strong> C# </strong> <strong> .Net Core</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
+  🌱 I’m currently leveraging <strong> Java </strong> <strong> Spring Boot</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
 </p>
 
 
