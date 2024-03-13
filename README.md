@@ -14,7 +14,7 @@
 </p>
 
 
-- 💬 Ask me about *Full Stack Development,Javascript,React, Java, Data Structures and Algorithms*
+- 💬 Ask me about *Full Stack Development, Javascript, React, Java, Data Structures and Algorithms*
 
 - 📫 Reach out to me *tusharchemate07@gmail.com*
 
