@@ -22,20 +22,17 @@
 
 <h3 align="left">🛠 LANGUAGES AND TOOLS:</h3> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-[![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="65px" width="65px" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="65px" width="65px" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="65px" width="65px" />
+</div>
 
 
 <h3 align="left">
