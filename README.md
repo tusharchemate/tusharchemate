@@ -62,5 +62,4 @@
   <img src="https://img.shields.io/badge/Node.js-JavaScript-green?style=flat&logo=node.js" alt="Node.js" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tusharchemate07&theme=modern-lilac&border_radius=8.5)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tusharchemate&theme=modern-lilac&border_radius=8.5)](https://git.io/streak-stats)
