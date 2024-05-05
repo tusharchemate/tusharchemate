@@ -34,7 +34,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="65px" width="65px" />
 </div>
 
-
 <h3 align="left">
   👥 CONNECT WITH ME:
 </h3>
