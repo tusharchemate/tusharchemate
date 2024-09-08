@@ -30,7 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="65px" width="65px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="65px" width="65px" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/node/node-original-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="65px" width="65px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="65px" width="65px" />
 </div>
 
