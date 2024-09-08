@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Qapita Fintech India Pvt Ltd**.
 
 - <p>
-  🌱 I’m currently leveraging <strong> Node </strong>, <strong> Express</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
+  🌱 I’m currently leveraging <strong> Node</strong>, <strong>Express</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
 </p>
 
 
@@ -30,8 +30,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="65px" width="65px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="65px" width="65px" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="65px" width="65px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/node/node-original-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="65px" width="65px" />
 </div>
 
 <h3 align="left">
