@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at **Qapita Fintech India Pvt Ltd**.
 
 - <p>
-  🌱 I’m currently leveraging <strong> Node</strong>, <strong>Express</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
+  🌱 I’m currently leveraging <strong> Java</strong>, <strong>Spring Boot</strong>, <strong>AWS</strong>, and <strong>Docker</strong>.
 </p>
 
 
@@ -30,8 +30,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="65px" width="65px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="65px" width="65px" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="65px" width="65px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="65px" width="65px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="65px" width="65px" alt="Java" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="65px" width="65px" alt="Spring Boot" />
+
 </div>
 
 <h3 align="left">
@@ -51,12 +52,4 @@
   <a href="https://www.leetcode.com/tusharchemate" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode Profile" />
   </a>
-</p>
-
-<p align="left">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-GitHub-black?style=flat&logo=git" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-Container-blue?style=flat&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=flat&logo=visual-studio-code" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Node.js-JavaScript-green?style=flat&logo=node.js" alt="Node.js" />
 </p>
