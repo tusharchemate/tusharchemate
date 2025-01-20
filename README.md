@@ -23,12 +23,12 @@
 <h3 align="left">🛠 LANGUAGES AND TOOLS:</h3> 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="65px" width="65px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="65px" width="65px" alt="HTML5" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="65px" width="65px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="65px" width="65px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="65px" width="65px" alt="JavaScript"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="65px" width="65px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="65px" width="65px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65px" width="65px" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="65px" width="65px" alt="Redux" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="65px" width="65px" alt="Java" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="65px" width="65px" alt="Spring Boot" />
