@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hey 👋 I'M Tushar Chemate  </h1>
 <div>
-  <h3 align="center">A Full Stack Developer.</h3> 
+  <h3 align="center">Software Engineer </h3> 
 </div>
 
 
